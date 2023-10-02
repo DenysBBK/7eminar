@@ -1,0 +1,7 @@
+@font-face {
+    font-family:'e-Ukrainian';
+    src: url('/fonts/e-UkraineHead-Bold.woff2') format('woff2'),
+         url('/fonts/e-UkraineHead-Bold.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+  }
